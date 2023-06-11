@@ -10,3 +10,7 @@
 <br> <img height="600" src="https://github.com/osvaneal93/private-trips-app/blob/main/assets/3.png"><br>
 <br> <img height="600" src="https://github.com/osvaneal93/private-trips-app/blob/main/assets/5.png"><br>
 <br> <img height="600" src="https://github.com/osvaneal93/private-trips-app/blob/main/assets/8.png"><br>
+
+<br> <img height="600" src="https://github.com/osvaneal93/private-trips-app/blob/main/assets/d6.png"><br>
+
+<br> <img height="600" src="https://github.com/osvaneal93/private-trips-app/blob/main/assets/d7.png"><br>
